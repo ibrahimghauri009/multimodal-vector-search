@@ -1,0 +1,8 @@
+pinecone
+pymongo
+transformers
+torch
+Pillow
+matplotlib
+numpy
+tqdm
